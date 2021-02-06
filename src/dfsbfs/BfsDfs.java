@@ -134,7 +134,7 @@ Test with below Graph1 AND Graph2
  */
 public class BfsDfs {
     public static void main(String[] args) {
-        
+
         Graph graph1 = new Graph(10);
         Graph graph2 = new Graph(9);
 
