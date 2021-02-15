@@ -11,6 +11,9 @@
 * [x] 퀵정렬 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/sort/QuickSort.java)
 * [x] 병합정렬 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/sort/MergeSort.java)
 
+## 검색
+* [x] 이진검색 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/search/BinarySearch.java)
+
 ## DFS/BFS
 * [x] BFS/DFS 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/dfsbfs/BfsDfs.java)
 * [x] DOM트리 BFS/DFS [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/dfsbfs/DOM.java)
