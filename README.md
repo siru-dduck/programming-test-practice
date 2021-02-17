@@ -13,7 +13,7 @@
 
 ## 검색
 * [x] 이진검색 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/search/BinarySearch.java)
-
+* [x] 이진검색트리 구현  [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/search/BinarySearchTree.java)
 ## DFS/BFS
 * [x] BFS/DFS 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/dfsbfs/BfsDfs.java)
 * [x] DOM트리 BFS/DFS [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/dfsbfs/DOM.java)
