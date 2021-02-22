@@ -4,6 +4,9 @@
 
 ---
 
+## 해시
+* [x] 체이닝해시 구현 [구현링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/hash/ChainHash.java)
+
 ## 우선순위큐
 * [x] 디스크 컨트롤러  [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42627) [풀이링크](https://github.com/sinwoo1225/programming-test-practice/blob/master/src/priorityqueue/DiskController.java)
 
