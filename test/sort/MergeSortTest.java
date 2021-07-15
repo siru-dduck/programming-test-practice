@@ -1,11 +1,13 @@
 package sort;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 class MergeSortTest {
 
     @Test
+    @DisplayName("병합정렬 테스트")
     public void mergeSort() {
         // when
         int[] arr = {63, 1, 2, 7, 9, 0, 20, 12, 70, -100, 0};
