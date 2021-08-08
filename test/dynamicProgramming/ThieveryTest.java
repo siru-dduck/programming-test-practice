@@ -13,7 +13,7 @@ class ThieveryTest {
     void solution() {
         // given
         Thievery thievery = new Thievery();
-        int[] money1 = {1, 2, 3, 1, 5}; // 1
+        int[] money1 = {1, 2, 3, 1, 5};
         int[] money2 = {1, 2, 3, 1};
         int[] money3 = {91, 90, 5, 7, 5, 7 };
         int[] money4 = {90, 0, 0, 95, 1, 1};
